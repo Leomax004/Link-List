@@ -1,3 +1,9 @@
+/*
+ *Link-List Algorithm in c
+ *Please feel free to ask any question at parvesh.singh004@gmail.com
+ */
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
